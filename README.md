@@ -1,1 +1,2 @@
-# CS484_HW2
+## Bilkent University CS 484 Image Processing
+Homework 1
